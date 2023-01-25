@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.chartMenu {
+  width: 100vw;
+  height: 40px;
+  text-align: center;
+  color: black;
+}
+
+.chartMenu p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.chartCard {
+  width: 100vw;
+  height: calc(100% - 40px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chartBox {
+  width: 700px;
+  height: auto;
+  padding: 20px;
+  border-radius: 20px;
+  background: white;
+}
+
+@media only screen and (max-width: 720px) {
+  .chartBox {
+    width: 90%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  .chartCard {
+    height: auto;
+  }
+}
