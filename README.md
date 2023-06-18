@@ -27,9 +27,55 @@
 
 ## Screenshots
 
-| ![Landing Page](/screnshots/landing.png) |
+| ![Landing Page](screenshots/landing.png) |
 | :--------------------------------------: |
 |              _Landing Page_              |
+
+| ![Dashboard](screenshots/dashboard.png) |
+| :-------------------------------------: |
+|               _Dashboard_               |
+
+| ![Calorie Intake Tracker](screenshots/calories-intake-mobile.png) |
+| :---------------------------------------------------------------: |
+|                     _Calorie Intake Tracker_                      |
+
+| ![Weight Tracker](screenshots/weight-tracker.png) |
+| :-----------------------------------------------: |
+|                 _Weight Tracker_                  |
+
+| ![Steps Counter](screenshots/steps-counter-mobile.png) | ![Calories Burnt Tracker](screenshots/calorie-burnt-mobile.png) |
+| :----------------------------------------------------: | :-------------------------------------------------------------: |
+|                    _Steps Counter_                     |                    _Calories Burnt Tracker_                     |
+
+| ![Diet Bot](screenshots/diet-bot.png) |
+| :-----------------------------------: |
+|              _Diet Bot_               |
+
+| ![Challenges](screenshots/challenge.png) |
+| :--------------------------------------: |
+|               _Challenges_               |
+
+| ![Friends](screenshots/friends.png) |
+| :---------------------------------: |
+|              _Friends_              |
+
+| ![Friend Profile](screenshots/friend-profile.png) |
+| :-----------------------------------------------: |
+|                 _Friend Profile_                  |
+
+| ![Store](screenshots/store.png) |
+| :-----------------------------: |
+|             _Store_             |
+
+| ![Signin](screenshots/signin.png) |
+| :-------------------------------: |
+|             _Signin_              |
+
+| ![Signup](screenshots/signup.png) |
+| :-------------------------------: |
+|             _Signup_              |
+
+
 
 ## Author
 <!-- 1. Siddarth Nachane - [contact](https://replit.com/@Sidd065)
