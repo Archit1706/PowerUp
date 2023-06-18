@@ -25,9 +25,10 @@
 13. Authenticated Logins
 14. Mobile and Web Responsive
 
-## Authors
-1. Siddarth Nachane - [contact](https://replit.com/@Sidd065)
+## Author
+<!-- 1. Siddarth Nachane - [contact](https://replit.com/@Sidd065)
 2. Aditya Surve - [contact](https://github.com/SurveAditya)
-3. Archit Rathod - [contact](https://github.com/Archit1706)
+3. Archit Rathod - [contact](https://github.com/Archit1706) -->
+Archit Rathod - [GitHub](https://github.com/Archit1706) | [LinkedIn](https://www.linkedin.com/in/archit-rathod/)
 
 
