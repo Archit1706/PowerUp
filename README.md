@@ -25,6 +25,12 @@
 13. Authenticated Logins
 14. Mobile and Web Responsive
 
+## Screenshots
+
+| ![Landing Page](/screnshots/landing.png) |
+| :--------------------------------------: |
+|              _Landing Page_              |
+
 ## Author
 <!-- 1. Siddarth Nachane - [contact](https://replit.com/@Sidd065)
 2. Aditya Surve - [contact](https://github.com/SurveAditya)
